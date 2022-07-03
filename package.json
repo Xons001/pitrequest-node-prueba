@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cvjreyes/pitrequest-node.git"
+    "url": "git+https://github.com/Xons001/pitrequest-node-prueba.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cvjreyes/pitrequest-node/issues"
+    "url": "https://github.com/Xons001/pitrequest-node-prueba.git/issues"
   },
-  "homepage": "https://github.com/cvjreyes/pitrequest-node#readme",
+  "homepage": "https://github.com/Xons001/pitrequest-node-prueba.git#readme",
   "dependencies": {
     "body-parser": "^1.19.2",
     "cors": "^2.8.5",
